@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATIS - Agentic Tariff Intelligence System
 
 A comprehensive demo application showcasing automated tariff impact analysis and supply chain optimization for automotive components.
@@ -163,3 +164,6 @@ For questions or issues:
 ---
 
 **Built for WWC Conference Demo** - Showcasing advanced supply chain intelligence and automated tariff optimization.
+=======
+# agentic-tariff-commander
+>>>>>>> origin/dev
