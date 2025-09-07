@@ -1,0 +1,13 @@
+auto_execute_if:
+  margin_hit_pp_lt: 0.5           # auto if margin impact ≤ 0.5 percentage points
+  supplier_switch_risk_score_lt: 20
+  lead_time_increase_days_lt: 2
+requires_approval_if:
+  hts_confidence_lt: 0.9
+  regulatory_change_type:
+    - structural
+    - ambiguous
+scoring_weights:
+  cost_delta: 0.5
+  lead_time_delta: 0.25
+  compliance_risk: 0.25

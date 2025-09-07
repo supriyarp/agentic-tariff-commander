@@ -1,0 +1,16 @@
+id,name,description,affected_hs,origin,new_rate_pct,start_date
+1,Overnight CN auto parts +15pp,Tariff increase on HS 870830 from CN by +15pp (to 25%),870830,CN,25.0,2025-09-01
+2,Multi-border trap,Demonstrate duty stacking on route CN->VN->US for HS 870830,870830,CN,25.0,2025-09-01
+3,HTS review needed,Classifier confidence 0.86 on fasteners (HS 731815) triggers human review,731815,CN,7.5,2025-01-10
+4,Engine parts escalation,CN engine components (HS 840991) tariff increase from 8% to 15%,840991,CN,15.0,2025-06-01
+5,USMCA transmission advantage,Compare CN vs MX transmission suppliers under USMCA,870840,CN,6.5,2025-01-10
+6,German precision premium,DE engine parts vs CN alternatives cost analysis,840991,DE,2.5,2025-01-10
+7,Glass anti-dumping,CN automotive glass anti-dumping duties increase to 25%,700711,CN,25.0,2025-10-01
+8,Battery supply chain,CN battery tariffs increase affecting EV components,850760,CN,8.0,2025-12-01
+9,Steering system review,CN steering components require HTS classification review,870894,CN,9.0,2025-01-10
+10,Seating USMCA compliance,Verify MX seating suppliers meet USMCA origin requirements,940120,MX,0.0,2025-01-10
+11,Tire supply diversification,Evaluate alternative tire suppliers to reduce CN dependency,401110,CN,4.0,2025-01-10
+12,Multi-tier supplier analysis,Analyze CN->MX->US route for transmission components,870840,CN,6.5,2025-01-10
+13,Quality vs cost trade-off,Compare DE precision parts vs CN alternatives,840991,DE,2.5,2025-01-10
+14,Lead time optimization,Evaluate VN suppliers for faster delivery vs CN,870830,VN,5.0,2025-01-10
+15,Compliance risk assessment,Assess supplier compliance scores across regions,870830,CN,10.0,2025-01-10
