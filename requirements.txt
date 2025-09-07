@@ -1,0 +1,8 @@
+pandas
+numpy
+pydantic
+pyyaml
+streamlit
+httpx
+feedparser
+pytest
